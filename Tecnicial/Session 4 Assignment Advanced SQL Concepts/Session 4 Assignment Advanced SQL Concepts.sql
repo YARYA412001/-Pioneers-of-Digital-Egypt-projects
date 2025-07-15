@@ -2,7 +2,6 @@ USE StoreDB
 --1)Count the total number of products in the database.
 SELECT COUNT(*) AS TotalProduct 
 FROM production.products
-
 --2)Find the average, minimum, and maximum price of all products.
 SELECT 
     AVG(list_price) AS AvgPrice,
