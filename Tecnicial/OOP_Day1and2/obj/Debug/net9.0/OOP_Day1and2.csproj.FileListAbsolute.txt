@@ -1,0 +1,14 @@
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\MNF3_SWD5_S1\OOP_Day1and2\bin\Debug\net9.0\OOP_Day1and2.exe
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\MNF3_SWD5_S1\OOP_Day1and2\bin\Debug\net9.0\OOP_Day1and2.deps.json
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\MNF3_SWD5_S1\OOP_Day1and2\bin\Debug\net9.0\OOP_Day1and2.runtimeconfig.json
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\MNF3_SWD5_S1\OOP_Day1and2\bin\Debug\net9.0\OOP_Day1and2.dll
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\MNF3_SWD5_S1\OOP_Day1and2\bin\Debug\net9.0\OOP_Day1and2.pdb
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\MNF3_SWD5_S1\OOP_Day1and2\obj\Debug\net9.0\OOP_Day1and2.GeneratedMSBuildEditorConfig.editorconfig
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\MNF3_SWD5_S1\OOP_Day1and2\obj\Debug\net9.0\OOP_Day1and2.AssemblyInfoInputs.cache
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\MNF3_SWD5_S1\OOP_Day1and2\obj\Debug\net9.0\OOP_Day1and2.AssemblyInfo.cs
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\MNF3_SWD5_S1\OOP_Day1and2\obj\Debug\net9.0\OOP_Day1and2.csproj.CoreCompileInputs.cache
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\MNF3_SWD5_S1\OOP_Day1and2\obj\Debug\net9.0\OOP_Day1and2.dll
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\MNF3_SWD5_S1\OOP_Day1and2\obj\Debug\net9.0\refint\OOP_Day1and2.dll
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\MNF3_SWD5_S1\OOP_Day1and2\obj\Debug\net9.0\OOP_Day1and2.pdb
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\MNF3_SWD5_S1\OOP_Day1and2\obj\Debug\net9.0\OOP_Day1and2.genruntimeconfig.cache
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\MNF3_SWD5_S1\OOP_Day1and2\obj\Debug\net9.0\ref\OOP_Day1and2.dll
