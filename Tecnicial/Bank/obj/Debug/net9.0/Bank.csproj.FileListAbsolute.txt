@@ -1,0 +1,14 @@
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\MNF3_SWD5_S1\Bank\bin\Debug\net9.0\Bank.exe
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\MNF3_SWD5_S1\Bank\bin\Debug\net9.0\Bank.deps.json
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\MNF3_SWD5_S1\Bank\bin\Debug\net9.0\Bank.runtimeconfig.json
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\MNF3_SWD5_S1\Bank\bin\Debug\net9.0\Bank.dll
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\MNF3_SWD5_S1\Bank\bin\Debug\net9.0\Bank.pdb
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\MNF3_SWD5_S1\Bank\obj\Debug\net9.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\MNF3_SWD5_S1\Bank\obj\Debug\net9.0\Bank.AssemblyInfoInputs.cache
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\MNF3_SWD5_S1\Bank\obj\Debug\net9.0\Bank.AssemblyInfo.cs
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\MNF3_SWD5_S1\Bank\obj\Debug\net9.0\Bank.csproj.CoreCompileInputs.cache
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\MNF3_SWD5_S1\Bank\obj\Debug\net9.0\Bank.dll
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\MNF3_SWD5_S1\Bank\obj\Debug\net9.0\refint\Bank.dll
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\MNF3_SWD5_S1\Bank\obj\Debug\net9.0\Bank.pdb
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\MNF3_SWD5_S1\Bank\obj\Debug\net9.0\Bank.genruntimeconfig.cache
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\MNF3_SWD5_S1\Bank\obj\Debug\net9.0\ref\Bank.dll
