@@ -1,0 +1,14 @@
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\MNF3_SWD5_S1\Examination System\obj\Debug\net9.0\Examination System.GeneratedMSBuildEditorConfig.editorconfig
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\MNF3_SWD5_S1\Examination System\obj\Debug\net9.0\Examination System.AssemblyInfoInputs.cache
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\MNF3_SWD5_S1\Examination System\obj\Debug\net9.0\Examination System.AssemblyInfo.cs
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\MNF3_SWD5_S1\Examination System\obj\Debug\net9.0\Examination System.csproj.CoreCompileInputs.cache
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\MNF3_SWD5_S1\Examination System\bin\Debug\net9.0\Examination System.exe
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\MNF3_SWD5_S1\Examination System\bin\Debug\net9.0\Examination System.deps.json
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\MNF3_SWD5_S1\Examination System\bin\Debug\net9.0\Examination System.runtimeconfig.json
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\MNF3_SWD5_S1\Examination System\bin\Debug\net9.0\Examination System.dll
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\MNF3_SWD5_S1\Examination System\bin\Debug\net9.0\Examination System.pdb
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\MNF3_SWD5_S1\Examination System\obj\Debug\net9.0\Examination System.dll
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\MNF3_SWD5_S1\Examination System\obj\Debug\net9.0\refint\Examination System.dll
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\MNF3_SWD5_S1\Examination System\obj\Debug\net9.0\Examination System.pdb
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\MNF3_SWD5_S1\Examination System\obj\Debug\net9.0\Examination System.genruntimeconfig.cache
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\MNF3_SWD5_S1\Examination System\obj\Debug\net9.0\ref\Examination System.dll
