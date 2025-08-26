@@ -1,0 +1,142 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #ffffff;
+}
+
+nav {
+  background-color: #1d1d1d;
+  padding: 10px 20px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.navbar .logo {
+  font-size: 1.8rem;
+  color: #ffda00;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.nav-links a {
+  color: white;
+  text-decoration: none;
+  padding: 10px 15px;
+  font-size: 1rem;
+}
+
+.nav-links a:hover {
+  color: #ffda00;
+}
+
+.search-container {
+  display: flex;
+  align-items: center;
+}
+
+#newsSearch {
+  border: 2px solid #ffda00;
+  border-radius: 3px;
+  padding: 8px 10px;
+  width: 200px;
+  font-size: 1rem;
+  background-color: #f2f2f2;
+}
+
+#searchButton {
+  background-color: #ffda00;
+  border: none;
+  padding: 8px 15px;
+  font-size: 1rem;
+  cursor: pointer;
+  margin-left: 5px;
+}
+
+#searchButton:hover {
+  background-color: #e6be00;
+}
+
+#newsType {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #1d1d1d;
+  text-align: center;
+  padding: 20px;
+  border-bottom: 2px solid #ffda00;
+}
+
+.news-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.news-card {
+  padding: 10px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+  overflow: hidden;
+  width: 23%;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.news-card img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.card-content {
+  padding: 15px;
+  flex: 1;
+}
+
+.card-content h5 {
+  font-size: 1.25rem;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.card-content p {
+  margin-bottom: 10px;
+  font-size: 1rem;
+  color: #666;
+}
+
+.card-content a {
+  text-decoration: none;
+  color: white; 
+  background-color: #ffda00; 
+  padding: 10px 15px;
+  border-radius: 5px;
+  font-weight: bold; 
+  display: inline-block;
+  transition: background-color 0.3s ease; 
+  text-align: center; 
+}
+
+.card-content a:hover {
+  background-color: #1d1d1d;
+  text-decoration: none; 
+}
+
+.news-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
