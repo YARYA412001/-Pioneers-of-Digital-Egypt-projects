@@ -1,0 +1,47 @@
+﻿@model List<Student>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+@foreach(var item in Model)
+{
+        <h2>@(ViewData["msg"]+@item.StFname)</h2>
+}
+@{
+    ViewData["msg"] = "Hello ";
+    ViewData["temp"] = 25;
+}
+@{
+    if((int)ViewData["temp"] >= 30)
+    {
+        ViewData["color"] = "blue";
+        ViewBag.dddd = "yellow";
+
+    }
+    else
+    {
+        ViewData["color"] = "red";
+        ViewBag.dddd = "black";
+    }
+}
+@* <h3 style="color:@ViewData["color"]"> *@
+@*     @((int)ViewData["temp"]-10)  *@
+@* </h3> *@
+
+<h3 style="color:@ViewData["Color"]">
+    @((int)ViewData["temp"])
+</h3>
+
+<h3 >
+    
+    @if (ViewBag.temphhhhh == 25)
+    {
+        <h6>hello 25</h6>
+    }
+    else
+    {
+        <h6>Hello 27</h6>
+    }
+    @(ViewBag.tempggg)
+</h3>

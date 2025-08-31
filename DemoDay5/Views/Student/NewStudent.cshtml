@@ -1,0 +1,22 @@
+﻿@model Student
+@{
+    ViewData["Title"] = "NewStudent";
+}
+
+<h1>NewStudent</h1>
+@* <form action="/Student/SaveNew" > *@
+<form asp-action="SaveNew" asp-controller="Student" method="post" class="form form-control">
+    <div>
+        <label>Sts First Name</label>
+        <input type="text" name="StFname" value="@Model?.StFname"/>
+    </div>
+    <div>
+        <label>Sts LastName</label>
+        <input type="text" name="StLname" value="@Model?.StLname" />
+    </div>
+    <div>
+        <label>sts Address</label>
+        <input type="text" name="StAddress" value="@Model?.StAddress" />
+    </div> 
+    <button type="submit" name="SaveNew">Save</button>
+</form>

@@ -1,0 +1,47 @@
+﻿@model StudentWithDeptListViewModel
+@{
+    ViewData["Title"] = "editSts";
+}
+
+<h1>editSts</h1>
+
+<form asp-action="SaveEdit" asp-controller="Student" method="post">
+    
+    <div>
+        <input type="text" name="StId" value="@Model?.StId" hidden />
+    </div>
+    <div class="form-control">
+        <label>Sts First Name</label>
+        <input type="text" name="StFname" value="@Model?.StFname" />
+    </div>
+    <div class="form-control">
+        <label>Sts LastName</label>
+        <input type="text" name="StLname" value="@Model?.StLname" />
+    </div>
+    <div class="form-control">
+        <label>sts Address</label>
+        <input type="text" name="StAddress" value="@Model?.StAddress" />
+    </div>
+    @* <div> *@
+    @*     <label>DeptId</label> *@
+    @*     <input type="number" name="DeptId" value="@Model?.DeptId" /> *@
+    @* </div> *@
+    <div>
+        < <label>DeptId</label>
+        <select class="form form-control" id="DeptId" name="DeptId">
+            @foreach(Department deptItem in Model.deptList)
+            {
+               if(Model.DeptId==deptItem.DeptId)
+                {
+                    <option value="@deptItem.DeptId" selected>@deptItem.DeptName</option>
+                }
+                else
+                {
+                    <option value="@deptItem.DeptId">@deptItem.DeptName</option>
+                }
+            }
+        </select>
+    </div>
+    <button type="submit" name="SaveEdit">Edit</button>
+</form>
+<a href="/Student/getStsData"> Back to List</a>
