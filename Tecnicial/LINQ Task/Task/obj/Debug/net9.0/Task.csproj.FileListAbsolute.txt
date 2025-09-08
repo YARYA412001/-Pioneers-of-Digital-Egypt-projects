@@ -1,0 +1,14 @@
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\new instrctuor\LINQ Task\Task\bin\Debug\net9.0\Task.exe
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\new instrctuor\LINQ Task\Task\bin\Debug\net9.0\Task.deps.json
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\new instrctuor\LINQ Task\Task\bin\Debug\net9.0\Task.runtimeconfig.json
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\new instrctuor\LINQ Task\Task\bin\Debug\net9.0\Task.dll
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\new instrctuor\LINQ Task\Task\bin\Debug\net9.0\Task.pdb
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\new instrctuor\LINQ Task\Task\obj\Debug\net9.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\new instrctuor\LINQ Task\Task\obj\Debug\net9.0\Task.AssemblyInfoInputs.cache
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\new instrctuor\LINQ Task\Task\obj\Debug\net9.0\Task.AssemblyInfo.cs
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\new instrctuor\LINQ Task\Task\obj\Debug\net9.0\Task.csproj.CoreCompileInputs.cache
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\new instrctuor\LINQ Task\Task\obj\Debug\net9.0\Task.dll
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\new instrctuor\LINQ Task\Task\obj\Debug\net9.0\refint\Task.dll
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\new instrctuor\LINQ Task\Task\obj\Debug\net9.0\Task.pdb
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\new instrctuor\LINQ Task\Task\obj\Debug\net9.0\Task.genruntimeconfig.cache
+D:\yahya ramdan\ALL PROJECTS\رواد\رواد\Tecnicial\C#\new instrctuor\LINQ Task\Task\obj\Debug\net9.0\ref\Task.dll
